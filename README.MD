@@ -17,8 +17,7 @@ SOL :
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/Mnuralim/bot-sonic-sol.git
-cd bot-sonic-sol
+git clone https://github.com/yofvckn/sonic-bot-v1.git
 ```
 
 ### 2. Instal Dependensi
@@ -44,6 +43,6 @@ npm run start
 \*pastikan udah install node js
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : 
+twitter : 
+telegram : 
