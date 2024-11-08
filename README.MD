@@ -28,7 +28,3 @@ npm run start
 
 \*pastikan udah install node js
 
-by :
-github : 
-twitter : 
-telegram : 
